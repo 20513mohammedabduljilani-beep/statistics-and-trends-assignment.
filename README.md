@@ -61,15 +61,15 @@ These are used to describe the shape and spread of unemployment rate distributio
    pip install matplotlib
    pip install seaborn
 
-Learning Outcomes Demonstrated
+## Learning Outcomes Demonstrated
 
-Version Control: Code maintained and committed using Git and GitHub.
+**Version Control**: Code maintained and committed using Git and GitHub.
 
-Data Preparation: Dataset cleaned and structured using pandas.
+**Data Preparation**: Dataset cleaned and structured using pandas.
 
-Statistical Analysis: Key summary statistics and visualisations produced.
+**Statistical Analysis**: Key summary statistics and visualisations produced.
 
-Communication: Findings clearly presented through plots and report.
+**Communication**: Findings clearly presented through plots and report.
 
-Dataset obtained from Kaggle:
-Global Unemployment Data
+## Dataset obtained from Kaggle:
+https://www.kaggle.com/datasets/sazidthe1/global-unemployment-data
