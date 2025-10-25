@@ -3,7 +3,7 @@
 **Student Name:** MOHAMMED ABDUL JILANI  
 **Student ID:** 24168848  
 **Module:** Applied Data Science 1 – Statistics and Trends  
-**Instructor:** William Cooper  
+**Instructor:** Dr.William Cooper  
 
 
 
