@@ -13,18 +13,6 @@ Dataset: Kaggle – Global Unemployment Data
 """
 
 
-# In[76]:
-
-
-"""
-Title: Global Unemployment Trends (2014–2024)
-Author: Mohammed Abdul Jilani
-Student ID Number: 24168848
-Module: Applied Data Science 1 – Statistics and Trends
-Dataset: Kaggle – Global Unemployment Data
-"""
-
-
 # In[109]:
 
 
