@@ -37,7 +37,7 @@ The analysis was completed using **Python** in **Jupyter Notebook**, following t
 2. **Histogram** – Distribution of Unemployment Rates  
    Displays the frequency of unemployment rate values for all countries.  
 
-3. **Heatmap** – Correlation Between Yearly Rates  
+3. **Box Plot** – Comparison of Unemployment Rate Distributions  
    Shows relationships between unemployment rates across different years.
 
 
