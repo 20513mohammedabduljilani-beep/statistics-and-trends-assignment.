@@ -3,7 +3,7 @@
 **Student Name:** MOHAMMED ABDUL JILANI  
 **Student ID:** 24168848  
 **Module:** Applied Data Science 1 – Statistics and Trends  
-**Module Leader:** William Cooper  
+**Instructor:** William Cooper  
 
 
 
@@ -16,7 +16,7 @@ The analysis was completed using **Python** in **Jupyter Notebook**, following t
 - *Reading Files and Categorical Graphs*  
 - *Basic Statistics and Statistical Graphs*  
 - *Distributions and Good Coding Practice*
-- *Version Control and Further Graphs
+- *Version Control and Further Graphs*
 
 
 
